@@ -1,0 +1,15 @@
+.hero-banner{
+	height: 100vh;
+	background-image: url("../images/bg.jpg");
+	color: antiquewhite;
+}
+
+.project{
+	background-color: beige;
+}
+#giph{
+	margin-left: 10px;
+	margin-top:-10px;
+  }
+
+  
